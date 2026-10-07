@@ -14,7 +14,7 @@ Java · Unreal Engine · Blender · Adobe
 
 ## A little about me
 
-I enjoy working where software and creativity meet — from Java and desktop tools to real-time worlds, 3D work, and visual design.
+Open Source Is the Future . Lets Build together
 
 I learn by building things I want to use, testing them, and making them better. Currently, that means **PhoneDesk**: a simpler way to control an Android camera and mirror a phone from Windows.
 
